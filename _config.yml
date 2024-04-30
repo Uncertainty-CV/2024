@@ -1,0 +1,31 @@
+
+baseurl: "https://uncv2023.github.io"
+color-scheme: "#1a2090" #the scheme can be any HEX code like "#334279"
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - .sass-cache
+
+title: "3rd Workshop on Uncertainty Quantification for Computer Vision"
+subtitle: "[ECCV 2024 Workshop](https://eccv2024.ecva.net/)"
+
+shorttitle: "UNCV Workshop @ ECCV 2024"
+information: "ECCV 2024 Workshop on Uncertainty Quantification for Computer Vision." 
+
+organizers: "UNCV Organizers"
+
+deadlines:
+  - item: Submission deadline
+    date: 10/07/2024
+  
+  - item: Notification of acceptance
+    date: 20/08/2024
+
+  - item: Camera-ready deadline
+    date: 31/08/2024

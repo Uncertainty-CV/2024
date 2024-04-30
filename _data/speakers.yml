@@ -1,0 +1,28 @@
+- name: Javier Antorán
+  url: https://javierantoran.github.io/
+  affiliation: University of Cambridge
+  abstract: TBA
+  img: javier.jpeg
+
+- name: Gilles Louppe 
+  url: https://glouppe.github.io/
+  affiliation: University of Liège
+  abstract: TBA
+  img: gilles.jpg
+
+- name: Jishnu Mukhoti
+  url: https://omegafragger.github.io/
+  affiliation: University of Oxford
+  abstract: TBA
+  img: jishnu.jpg
+
+- name: Tal Schuster
+  url: https://people.csail.mit.edu/tals/
+  affiliation: Google Research
+  abstract: TBA
+  img: tal.jpg
+
+- name: TBA
+  url: 
+  affiliation:
+  abstract: 
