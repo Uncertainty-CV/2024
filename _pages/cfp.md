@@ -23,7 +23,7 @@ The ECCV 2024 workshop on Uncertainty Quantification for Computer Vision will co
 * Computational aspects and real-time probabilistic inference
 * Output ambiguity, multi-modality and diversity
 
-We invite _three_ types of submissions: **workshop papers (8 pages)**, **extended abstracts (4 pages)**, and **papers accepted at ECCV 2024**.
+We invite _three_ types of submissions: **workshop papers (12 pages )**, **extended abstracts (4 pages)**, and **papers accepted at ECCV 2024**.
 
 All submissions will be peer-reviewed, and accepted submissions will be presented at the workshop.
 **Only accepted workshop papers** will be included in the ICCV Workshop Proceedings. 
