@@ -33,7 +33,7 @@ All submissions will be peer-reviewed, and accepted submissions will be presente
 
 **Workshop paper** submissions _must_ follow the [ECCV 2024 submission guidelines](https://eccv.ecva.net/Conferences/2024/SubmissionPolicies).
 
-**Extended abstract** submissions _must_ use the [UNCV 2024 style]({{ site.baseurl }}/assets/uncv2022_workshopECCV_author-kit.zip) (which is based on the CVPR 2022 style) and should be **up to 4 pages** long, excluding references.
+**Extended abstract** submissions _must_ use the [UNCV 2024 style]({{ site.baseurl }}/assets/uncv_extendedAbstract.zip) (which is based on the CVPR 2022 style) and should be **up to 4 pages** long, excluding references.
 
 **Accepted ECCV papers** _must_ be submitted in their original format and as accepted at ECCV.
 
