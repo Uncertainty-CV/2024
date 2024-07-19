@@ -41,58 +41,64 @@ Get the full benchmark dataset at the following link: [full BRAVO Dataset downlo
 
 The dataset includes the following subsets (with individual download links):
 **bravo-ACDC:** real scenes captured in adverse weather conditions, i.e., fog, night, rain, and snow. ([download link](https://drive.google.com/drive/u/4/folders/1IW6-Tdfk2At6CrIIrA-QJF6CEcHgqqha) or directly from [ACDC website](https://acdc.vision.ee.ethz.ch/download))
-    <div><!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/acdc/acdc1.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/acdc/acdc2.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/acdc/acdc3.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/acdc/acdc4.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/acdc/acdc5.png" style="width: 19%; height: auto;"><!--
- --></div>
+
+  <div>
+      <img src="{{ site.baseurl }}/assets/bravobenchmark/acdc/acdc1.png"   style="width: 19%; height: auto;"> 
+      <img src="{{ site.baseurl }}/assets/bravobenchmark/acdc/acdc2.png" style="width: 19%; height: auto;"> 
+      <img src="{{ site.baseurl }}/assets/bravobenchmark/acdc/acdc3.png" style="width: 19%; height: auto;"> 
+      <img src="{{ site.baseurl }}/assets/bravobenchmark/acdc/acdc4.png" style="width: 19%; height: auto;"> 
+      <img src="{{ site.baseurl }}/assets/bravobenchmark/acdc/acdc5.png" style="width: 19%; height: auto;">
+  </div>
 
 **bravo-SMIYC:** real scenes featuring out-of-distribution (OOD) objects rarely encountered on the road. ([download link](https://drive.google.com/drive/u/4/folders/1XnC9_7RzwZCWaDpP3iETbGt7Yvmg0MOg) or directly from [SMIYC website](https://segmentmeifyoucan.com/))
-    <div><!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synrain/rain1.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/smiyc/smiyc2.jpg" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/smiyc/smiyc3.jpg" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/smiyc/smiyc4.jpg" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/smiyc/smiyc5.jpg" style="width: 19%; height: auto;"><!--
- --></div>
+
+  <div>
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synrain/rain1.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/smiyc/smiyc2.jpg" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/smiyc/smiyc3.jpg" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/smiyc/smiyc4.jpg" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/smiyc/smiyc5.jpg" style="width: 19%; height: auto;">
+  </div>
 
 **bravo-synrain:** augmented scenes with synthesized raindrops on the camera lens. We augmented the validation images of Cityscapes and generated 500 images with raindrops. ([download link](https://drive.google.com/drive/u/4/folders/1onP6tUVSjV-qKWWLm6wiOZCB9U14_gQ6))
-    <div><!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synrain/rain1.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synrain/rain2.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synrain/rain3.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synrain/rain4.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synrain/rain5.png" style="width: 19%; height: auto;"><!--
- --></div>
+
+  <div>
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synrain/rain1.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synrain/rain2.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synrain/rain3.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synrain/rain4.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synrain/rain5.png" style="width: 19%; height: auto;">
+  </div>
 
 **bravo-synobjs:** augmented scenes with inpainted synthetic OOD objects. We augmented the validation images of Cityscapes and generated 656 images with 26 OOD objects. ([download link](https://drive.google.com/drive/u/4/folders/1KKt_25S69DBf8ZTxhOhELpLgS2gyyGnf))
-    <div><!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synobjs/cheetah.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synobjs/chimpanzee.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synobjs/lion.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synobjs/panda.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synobjs/penguine.png" style="width: 19%; height: auto;"> <!--
- --></div>
+
+  <div>
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synobjs/cheetah.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synobjs/chimpanzee.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synobjs/lion.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synobjs/panda.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synobjs/penguine.png" style="width: 19%; height: auto;"> 
+  </div>
 
 **bravo-synflare:** augmented scenes with synthesized light flares. We augmented the validation images of Cityscapes and generated 308 images with random light flares. ([download link](https://drive.google.com/drive/u/4/folders/13EpBXUY8BChoqfMxR5JhiyhqrzqLAO2y))
-    <div><!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synflare/flare1.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synflare/flare2.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synflare/flare3.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synflare/flare4.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synflare/flare5.png" style="width: 19%; height: auto;"><!--
- --></div>
+
+  <div>
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synflare/flare1.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synflare/flare2.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synflare/flare3.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synflare/flare4.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synflare/flare5.png" style="width: 19%; height: auto;">
+  </div>
 
 **bravo-outofcontext:** augmented scenes with random backgrounds. We augmented the validation images of Cityscapes and generated 329 images with random random backgrounds. ([download link](https://drive.google.com/drive/u/4/folders/1NoXqTQWxrj_yKMNRKLOd1rnn2TjqIaU5))
-    <div><!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synooc/ooc1.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synooc/ooc2.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synooc/ooc3.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synooc/ooc4.png" style="width: 19%; height: auto;"> <!--
-      --><img src="{{ site.baseurl }}/assets/bravobenchmark/synooc/ooc5.png" style="width: 19%; height: auto;"><!--
- --></div>
+
+  <div>
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synooc/ooc1.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synooc/ooc2.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synooc/ooc3.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synooc/ooc4.png" style="width: 19%; height: auto;"> 
+    <img src="{{ site.baseurl }}/assets/bravobenchmark/synooc/ooc5.png" style="width: 19%; height: auto;">
+  </div>
 
 
 
@@ -122,5 +128,5 @@ Allowed training datasets for Track 2:
 ### Supported by
 
 <a href="https://elsa-ai.eu/">
-<img src="{{ site.baseurl }}/assets/elsa-logo.png" class="img-responsive img-circle avatar-x2" alt="">
+<img src="{{ site.baseurl }}/assets/elsa-logo.png" class="img-responsive img-circle avatar" alt="">
 </a>
