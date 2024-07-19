@@ -8,7 +8,11 @@ title: BRAVO Challenge
 
 In conjunction with the Workshop on [Uncertainty Quantification for Computer Vision](https://uncertainty-cv.github.io/2024/), we are organizing a challenge on the robustness of autonomous driving in the open world. The 2024 BRAVO Challenge aims at benchmarking segmentation models on urban scenes undergoing diverse forms of natural degradation and realistic-looking synthetic corruptions.
 
-For more information, please check the [BRAVO Challenge Repository](https://github.com/valeoai/bravo_challenge) and the [Challenge Task Website at ELLIS/ELSA](https://benchmarks.elsa-ai.eu/?ch=1&com=introduction).
+<b>Top teams will be required to provide their solutions (a short paragraph) to a challenge paper. The challenge paper will be included in the ICCV Workshop Proceedings.</b>
+
+<b>For more information, please check the [BRAVO Challenge Repository](https://github.com/valeoai/bravo_challenge) and the [Challenge Task Website at ELSA](https://benchmarks.elsa-ai.eu/?ch=1&com=introduction).</b>
+
+
 
 ## Important Dates
 
@@ -106,11 +110,11 @@ The dataset includes the following subsets (with individual download links):
 
 We propose two tracks:
 
-### Track 1 – Single-domain training
+#### Track 1 – Single-domain training
 
 In this track, you must train your models exclusively on the [Cityscapes dataset](https://www.cityscapes-dataset.com/). This track evaluates the robustness of models trained with limited supervision and geographical diversity when facing unexpected corruptions observed in real-world scenarios.
 
-### Track 2 – Multi-domain training
+#### Track 2 – Multi-domain training
 
 In this track, you must train your models over a mix of datasets, whose choice is strictly limited to the list provided below, comprising both natural and synthetic domains. This track assesses the impact of fewer constraints on the training data on robustness.
 
@@ -124,8 +128,8 @@ Allowed training datasets for Track 2:
 - [SHIFT Dataset](https://www.vis.xyz/shift/) (synthetic)
 
 
-
-### Supported by
+<br>
+#### Supported by
 
 <a href="https://elsa-ai.eu/">
 <img src="{{ site.baseurl }}/assets/elsa-logo.png" class="img-responsive" style="width: 19%; height: auto;" alt="">
