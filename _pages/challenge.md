@@ -6,9 +6,9 @@ title: BRAVO Challenge
 
 # BRAVO Challenge
 
-In conjunction with the Workshop on [Uncertainty Quantification for Computer Vision](https://uncertainty-cv.github.io/2024/), we are organizing a challenge on the robustness of autonomous driving in the open world. The 2024 BRAVO Challenge aims at benchmarking segmentation models on urban scenes undergoing diverse forms of natural degradation and realistic-looking synthetic corruptions.
+In conjunction with the Workshop on Uncertainty Quantification for Computer Vision, we are organizing a challenge on the robustness of autonomous driving in the open world. The 2024 BRAVO Challenge aims at benchmarking segmentation models on urban scenes undergoing diverse forms of natural degradation and realistic-looking synthetic corruptions.
 
-<b>Top teams will be required to provide their solutions (a short paragraph) to a challenge paper. The challenge paper will be included in the ICCV Workshop Proceedings.</b>
+<b>Top teams will be required to provide their solutions (a short paragraph) to a challenge paper. The challenge paper will be included in the ECCV Workshop Proceedings.</b>
 
 <b>For more information, please check the [BRAVO Challenge Repository](https://github.com/valeoai/bravo_challenge) and the [Challenge Task Website at ELSA](https://benchmarks.elsa-ai.eu/?ch=1&com=introduction).</b>
 
