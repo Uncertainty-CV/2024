@@ -132,5 +132,5 @@ Allowed training datasets for Track 2:
 #### Supported by
 
 <a href="https://elsa-ai.eu/">
-<img src="{{ site.baseurl }}/assets/elsa-logo.png" class="img-responsive" style="width: 19%; height: auto;" alt="">
+<img src="{{ site.baseurl }}/assets/elsa-logo.png" class="img-responsive" style="width: 15%; height: auto;" alt="">
 </a>
