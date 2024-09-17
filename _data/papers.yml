@@ -1,4 +1,90 @@
-- title:
-  authors:
+- title: Reliable Probabilistic Human Trajectory Prediction for Autonomous Applications
+  authors: Manuel Hetzel, Hannes Reichert, Konrad Doll, Bernhard Sick 
   type: full
-  oral: true
+
+- title: Calibration of Network Confidence for Unsupervised Domain Adaptation Using Estimated Accuracy
+  authors: Coby Penso, Jacob Goldberger 
+  type: full
+
+- title: Transient Fault Tolerant Semantic Segmentation for Autonomous Driving
+  authors: Leonardo Iurada, Niccolò Cavagnero, Fernando Fernandes Dos Santos, Giuseppe Averta, Paolo Rech, Tatiana Tommasi
+  type: abstract
+
+- title: "Alignist: CAD-Informed Orientation Distribution Estimation by Fusing Shape and Correspondences"
+  authors: Shishir Reddy Vutukur, Rasmus Laurvig Haugaard, Junwen Huang, Benjamin Busam, Tolga Birdal 
+  type: presentation
+
+- title: Tailoring Mixup to Data for Calibration
+  authors: Quentin Bouniot, Pavlo Mozharovskyi, Florence d'Alché-Buc 
+  type: abstract
+
+- title: "Logit disagreement: OoD Detection with Bayesian Neural Networks"
+  authors: Kevin Raina 
+  type: full
+
+- title: Uncertainty-Adaptive Selection of Sampling-Reconstruction for Fourier Compressed Sensing
+  authors: Seongmin Hong, Jaehyeok Bae, Jongho Lee, Se Young Chun 
+  type: abstract
+
+- title: Adaptive Bounding Box Uncertainties via Two-Step Conformal Prediction
+  authors: Alexander Timans, Christoph-Nikolas Straehle, Kaspar Sakmann, Eric Nalisnick 
+  type: presentation
+
+- title: Can Your Generative Model Detect Out-of-Distribution Covariate Shift?
+  authors: Christiaan Viviers, Amaan Valiuddin, Francisco Caetano, Lemar Abdi, Lena Filatova, Peter H.N. de With, Fons van der Sommen 
+  type: full
+
+- title: Multi-label out-of-distribution detection via evidential learning
+  authors: Eduardo Aguilar, Bogdan Raducanu, Petia Radeva 
+  type: full
+
+- title: "PixOOD: Pixel-Level Out-of-Distribution Detection"
+  authors: Tomas Vojir, Jan Sochman, Jiri Matas 
+  type: presentation
+
+- title: "MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty"
+  authors: Tim Broedermann, David Brüggemann, Christos Sakaridis, Kevin Ta, Odysseas Liagouris, Jason Corkill, Luc Van Gool 
+  type: presentation
+
+- title: "UTrack: Multi-Object Tracking with Uncertain Detections"
+  authors: Edgardo Solano Carrillo, Felix Sattler, Antje Alex, Alexander Klein, Bruno Pereira Costa, Angel Bueno Rodriguez, Jannis Stoppe 
+  type: full
+
+- title: Gated Temporal Diffusion for Stochastic Long-Term Dense Anticipation
+  authors: Olga Zatsarynna, Emad Bahrami, Yazan Abu Farha, Gianpiero Francesca, Juergen Gall 
+  type: presentation
+
+- title: "TAG: Text Prompt Augmentation for Zero-Shot Out-of-Distribution Detection"
+  authors: Xixi Liu, Christopher Zach 
+  type: full
+
+- title: Evidential Transformers for Improved Image Retrieval
+  authors: Danilo Dordevic, Suryansh Kumar 
+  type: abstract
+
+- title: Parameter-efficient Bayesian Neural Networks for Uncertainty-aware Depth Estimation
+  authors: Richard D. Paul, Alessio Quercia, Vincent Fortuin, Katharina Nöh, Hanno Scharr 
+  type: abstract
+
+- title: Sanity Checks for Explanation Uncertainty
+  authors: Matias Valdenegro-Toro, Mihir Mulye 
+  type: full
+
+- title: Uncertainty-Guided Alignment for Domain Adaptation in Regression
+  authors: Ismail Nejjar, Gaëtan Frusque, Florent Forest, Olga Fink 
+  type: abstract
+
+- title: Sources of Uncertainty in 3D Scene Reconstruction
+  authors: Marcus Klasson, Riccardo Mereu, Juho Kannala, Arno Solin
+  type: full
+
+- title: Revealing Uncertainty in Medical Application Using Bayesian Neural Network with Latent Variable Model
+  authors: Joseph Kihoon Kim, Kyeongbo Kong, Suk-Ju Kang 
+  type: abstract
+
+- title: Operational Open-Set Recognition and PostMax Refinement
+  authors: Steve Cruz, Ryan Rabinowitz, Manuel Günther, Terrance E. Boult 
+  type: presentation
+
+
+

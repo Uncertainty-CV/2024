@@ -4,12 +4,6 @@ permalink: /papers/
 title: Accepted Papers
 ---
 
-# Accepted Papers
-
-TBA
-
-<!--
-
 # Accepted Full Papers 
 
 <ul>
@@ -37,4 +31,13 @@ TBA
 {% endfor %}
 </ul>
 
--->
+# Accepted Presentation Papers
+
+<ul>
+{% for item in sortedPapers %}
+{% if item.type == "presentation" %}
+  <li><strong>{{ item.title }}</strong><br/>
+  <small><i>{{ item.authors }}</i></small></li>
+{% endif %}
+{% endfor %}
+</ul>
