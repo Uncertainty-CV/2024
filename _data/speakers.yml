@@ -1,9 +1,3 @@
-- name: Javier Antorán
-  url: https://javierantoran.github.io/
-  affiliation: University of Cambridge
-  abstract: TBA
-  img: javier.jpeg
-
 - name: Polina Kirichenko
   url: https://polkirichenko.github.io/
   affiliation: New York University
@@ -21,12 +15,6 @@
   affiliation: University of Oxford
   abstract: TBA
   img: jishnu.jpg
-
-- name: Theodore Papamarkou
-  url: https://www.theopapamarkou.com/
-  affiliation: University of Manchester
-  abstract: TBA
-  img: theodore.jpg
 
 - name: Tal Schuster
   url: https://people.csail.mit.edu/tals/
