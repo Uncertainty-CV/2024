@@ -27,7 +27,11 @@ title: Program
         <td>Invited Talk</td>
     </tr>
     <tr>
-        <td>10:00 - 12:00</td>
+        <td>10:00 - 10:30</td>
+        <td>Spotlights (Full Papers)</td>
+    </tr>
+    <tr>
+        <td>10:30 - 12:00</td>
         <td>Poster Session & Coffee Break</td>
     </tr>
     <tr>
