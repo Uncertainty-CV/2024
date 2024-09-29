@@ -21,7 +21,7 @@ title: Program
     <tr>
         <td>9:10 - 9:35</td>
         <td>Invited Talk by <strong><a href="https://glouppe.github.io/">Gilles Louppe</a></strong><br>
-        <i>TBA</i>
+        <i>Inverting Scientific Images With Score-Based Generative Models</i>
         </td>
     </tr>
     <tr>
